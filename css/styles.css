@@ -1,0 +1,104 @@
+/* Instructions 
+
+*/
+
+/* 	Exercise 1 */
+#one-a,
+#one-b,
+#one-c {
+    float: left;
+}
+
+/* 	Exercise 2 */
+#two-a,
+#two-b,
+#two-c {
+    float: right;
+}
+
+/* 	Exercise 3 */
+#three-b,
+#three-c {
+    float: left;
+}
+
+/* 	Exercise 4*/
+#four-a,
+#four-b,
+#four-c {
+    float: right;
+}
+#four-b {
+    clear: right;
+}
+
+/* 	Exercise 5 */
+#five-a,
+#five-b {
+    float: left;
+}
+#five-c {
+    clear: left;
+}
+
+/* 	Exercise 6 */
+#six-a,
+#six-b,
+#six-c {
+    float: right;
+}
+#six-c {
+    clear: right;
+}
+
+/* 	Exercise 7 
+		Hint: Parent has collapsed.  
+*/
+#seven-a,
+#seven-b,
+#seven-c,
+#seven {
+    float: left;
+}
+
+/* 	Excercise 8
+		Hint: Parent has collapsed. 	
+ */
+#eight-a,
+#eight-b,
+#eight-c {
+    float: right;
+}
+
+#eight {
+    float: left;
+}
+
+/* 	Exercise 9 */
+#nine-a {
+    float: left;    
+    clear: right;
+}
+#nine-b {
+    float: right;
+    clear: left;
+}
+#nine-c {
+    float: right;
+    clear: both;
+}
+
+#nine p {
+    clear: left;
+}
+
+/* 	Exercise 10 */
+
+#ten-a,
+#ten-b,
+#ten-c {
+    float: right;
+    clear: both;
+}
+
+
